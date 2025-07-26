@@ -1,4 +1,4 @@
-# Đề tài: [THIẾT KẾ VÀ XÂY DỰNG GAME N-PUZZLE SỬ DỤNG THUẬT TOÁN AI]
+# Đề tài: [THIẾT KẾ VÀ XÂY DỰNG GAME N-PUZZLE]
 
 ## Thông tin sinh viên
 
@@ -36,7 +36,7 @@
   - Tkinter: Thư viện tạo giao diện người dùng đồ họa.
   - Pillow: Thư viện xử lý ảnh và hiển thị ảnh trên bảng trò chơi.
   - heapq: Thư viện triển khai hàng đợi ưu tiên trong các thuật toán A* và UCS
-- ****:
+
 
 ### Hình ảnh minh họa
 <img width="586" height="622" alt="Ảnh màn hình 2025-07-26 lúc 17 32 17" src="https://github.com/user-attachments/assets/17c68244-9190-4a76-b155-7a9cffb8e26a" />
