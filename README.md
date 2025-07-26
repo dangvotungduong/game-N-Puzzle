@@ -39,6 +39,6 @@
 - ****:
 
 ### Hình ảnh minh họa
+<img width="586" height="622" alt="Ảnh màn hình 2025-07-26 lúc 17 32 17" src="https://github.com/user-attachments/assets/17c68244-9190-4a76-b155-7a9cffb8e26a" />
+<img width="1038" height="782" alt="Ảnh màn hình 2025-07-26 lúc 17 33 07" src="https://github.com/user-attachments/assets/81ce6561-2476-42ea-ac99-7f61b64a3c31" />
 
-![Giao diện hệ thống](Ảnh màn hình 2025-07-26 lúc 17.32.17.png)
-![Giao diện đề xuất sản phẩm](Ảnh màn hình 2025-07-26 lúc 17.33.07.png)
